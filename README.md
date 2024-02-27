@@ -77,8 +77,8 @@ Cu ajutorul funcționalității de salvare și încărcare în format binar, uti
 
 Dacă ai sugestii de îmbunătățiri sau descoperi probleme, te rog să deschizi un issue sau să trimiți un pull request. Contribuțiile sunt binevenite!
 
-## Licență
+## Reutilizarea codului:
 
-Acest proiect este licențiat sub Licența MIT, ceea ce înseamnă că îl poți utiliza și modifica liber, cu menținerea drepturilor de autor.
+Acest proiect nu este licențiat sub o licență standard. Cu toate acestea, încurajez reutilizarea codului în alte proiecte, cu condiția să menționați clar și vizibil autorul original și să includeți un link către acest proiect.
 
 Sper că acest calculator iți va fi de folos și iți va stârni curiozitatea pentru explorarea matematicii și programării!
